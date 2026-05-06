@@ -5,7 +5,7 @@
 - 🏗️ Engenheiro Civil em transição de carreira para Tecnologia.
 - 💡 Focado em lógica de programação, desenvolvimento web e engenharia de software.
 
-### 🐍 Jogo da Cobrinha (Contribuições)
+### 🐍 Contribuições
 ![Snake animation](https://raw.githubusercontent.com/RicardoNevees/RicardoNevees/output/github-snake-dark.svg)
 
 ### 🛠 Tecnologias e Linguagens
