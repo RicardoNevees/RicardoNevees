@@ -19,8 +19,4 @@
 ![Affinity](https://img.shields.io/badge/Affinity-61266b?style=flat-square&logo=affinity-designer&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-9cf?style=flat-square&logo=linux&logoColor=white)
 
-### 📊 Atividade no GitHub
-<a href="javascript:void(0)"><img src="https://img.shields.io/badge/Status-Em_Construção-orange?style=flat-square" /></a>
-<a href="javascript:void(0)"><img src="https://img.shields.io/badge/Contribuições-Ativo-success?style=flat-square&logo=github" /></a>
-<a href="javascript:void(0)"><img src="https://img.shields.io/badge/Foco-Desenvolvimento_Software-blue?style=flat-square" /></a>
 ---
