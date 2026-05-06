@@ -19,11 +19,8 @@
 ![Affinity](https://img.shields.io/badge/Affinity-61266b?style=flat-square&logo=affinity-designer&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-9cf?style=flat-square&logo=linux&logoColor=white)
 
-### 📊 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoNevees&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNevees&layout=compact&theme=dark&cache_seconds=1800" alt="Linguagens mais usadas" />
-</p>
+### 📊 Atividade no GitHub
+![Status](https://img.shields.io/badge/Status-Em_Construção-orange?style=flat-square)
+![Contribuições](https://img.shields.io/badge/Contribuições-Ativo-success?style=flat-square&logo=github)
+![Estudos](https://img.shields.io/badge/Foco-Desenvolvimento_Software-blue?style=flat-square)
 ---
