@@ -21,10 +21,9 @@
 
 ### 📊 Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoNevees&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoNevees&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNevees&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNevees&layout=compact&theme=dark&cache_seconds=1800" alt="Linguagens mais usadas" />
 </p>
-
 ---
