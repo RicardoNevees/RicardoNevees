@@ -18,8 +18,5 @@
 ![Affinity](https://img.shields.io/badge/Affinity-61266b?style=flat-square&logo=affinity-designer&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-9cf?style=flat-square&logo=linux&logoColor=white)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoNevees&show_icons=true&theme=dark)
 ---
