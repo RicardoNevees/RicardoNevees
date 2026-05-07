@@ -3,11 +3,7 @@
 ### 🚀 Sobre Mim
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (TADS)** pelo **IFRN Natal**.
 - 🏗️ Engenheiro Civil em transição de carreira para Tecnologia.
-- 💡 Focado em lógica de programação, desenvolvimento web e engenharia de software.
-
-### 🐍 Contribuições
-![Snake animation](https://raw.githubusercontent.com/RicardoNevees/RicardoNevees/output/github-snake-dark.svg)
-
+- 
 ### 🛠 Tecnologias e Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,6 +18,8 @@
 ![Affinity](https://img.shields.io/badge/Affinity-61266b?style=flat-square&logo=affinity-designer&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-9cf?style=flat-square&logo=linux&logoColor=white)
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
 ---
