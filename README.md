@@ -22,4 +22,6 @@
 ![Affinity](https://img.shields.io/badge/Affinity-61266b?style=flat-square&logo=affinity-designer&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-9cf?style=flat-square&logo=linux&logoColor=white)
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoNevees&show_icons=true&theme=dark)
+
 ---
