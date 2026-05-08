@@ -28,9 +28,10 @@
 
 ###
 
-<!-- PAC-MAN aqui -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F7D44A&center=true&vCenter=true&width=350&height=30&lines=ᗧ···ᗣ···ᗣ···;Pac-Man+comendo+estat%C3%ADsticas+duplicadas;⚫◘◘◘◘◘◘" alt="Pac-Man" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoNevees/RicardoNevees/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardoNevees/RicardoNevees/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RicardoNevees/RicardoNevees/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
