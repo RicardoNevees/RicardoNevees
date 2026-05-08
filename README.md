@@ -26,6 +26,6 @@
 </div>
 
 ### 🕹️ Pac-man Contributions
- <img src="https://raw.githubusercontent.com/RicardoNevees/RicardoNevees/pacman-output/pacman-contribution-graph.svg" alt="Pacman Retro Animation">
+ <img src="https://raw.githubusercontent.com/RicardoNevees/RicardoNevees/pacman-output/pacman-contribution-graph-dark.svg" alt="Pacman Retro Animation">
  
 ###
