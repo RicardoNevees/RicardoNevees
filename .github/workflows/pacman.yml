@@ -1,26 +1,30 @@
-name: Generate Pacman Retro
+name: generate animation
 
 on:
-  schedule: # Executa a cada 24 horas
-    - cron: "0 */24 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  schedule:
+    - cron: "0 */24 * * *" 
+  workflow_dispatch:
   push:
     branches:
-      - main
+    - main
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      - name: generate-pacman-retro-svg
-        uses: jasonlong/generate-github-contribution-grid-snake@v1
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman-contribution-graph.svg?color_snake=#f7df1e&color_dots=#bfbdbe&color_ghosts=#ff0000,#ffb8ff,#00ffff,#ffb851&theme=pacman
-            dist/pacman-contribution-graph-dark.svg?color_snake=#f7df1e&color_dots=#bfbdbe&color_ghosts=#ff0000,#ffb8ff,#00ffff,#ffb851&theme=pacman
-
-      - name: push pacman-contribution-graph.svg to the output branch
+            dist/pacman-contribution-graph.svg?palette=github-light&color_snake=#f7df1e&snake_type=pacman
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#f7df1e&snake_type=pacman
+          
+      - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
